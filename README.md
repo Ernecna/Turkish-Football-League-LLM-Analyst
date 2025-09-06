@@ -1,12 +1,3 @@
-# Turkish-Football-League-LLM-Analyst
-Harika! Sağladığınız tablo yapıları ve her bir sütunun detaylı açıklamalarıyla birlikte, hem Jupyter Notebook'ta çalışacak Python kodunu hem de README dosyasını Türkçe olarak hazırlayabilirim.
-
-Bu README dosyası, kazıdığınız verilerin ne anlama geldiğini net bir şekilde açıklayarak analizleriniz için sağlam bir temel oluşturacaktır.
-
----
-
-### README.md Dosyası (Türkçe)
-
 # FBref Süper Lig Takım İstatistikleri Kazıyıcı (Scraper)
 
 Bu Python betiği, `fbref.com` adresindeki Süper Lig takımlarının detay sayfalarından kapsamlı istatistik verilerini çekmek için tasarlanmıştır. Selenium ile web sayfalarını otomatik olarak ziyaret eder, BeautifulSoup ile HTML içeriğini ayrıştırır ve her bir tabloyu düzenli bir dosya yapısı altında CSV dosyalarına kaydeder.
@@ -215,5 +206,3 @@ Takımdaki oyuncuların diğer çeşitli istatistiklerini gösteren tablo.
 *   **Matches**: Oyuncunun maç loglarına bağlantı.
 
 ---
-
-Bu detaylı README ile hem kodunuzun işlevselliği hem de çektiğiniz verilerin anlamı daha net olacaktır.

@@ -48,6 +48,123 @@ Kod çalıştığında, mevcut dizinde `scraped_fbref_team_stats` adında bir kl
 
 Betiğin her takımın detay sayfasından çektiği başlıca tablolar ve içerdikleri sütunların açıklamaları aşağıdadır:
 
+Elbette, projenizin README dosyası için istediğiniz açıklamaların Türkçe karşılıkları ve açıklamaları aşağıda başlıklar halinde düzenlenmiştir.
+
+---
+
+### **Süper Lig Puan Durumu (Süper Lig Table)**
+
+*   **Rk (Sıra):** Takımın ligdeki sıralaması.
+*   **Squad finish in competition (Takımın turnuvadaki yeri):** Takımın lig veya turnuva içindeki bitiş pozisyonu. Eleme usulü turnuvalarda ulaşılan son turu gösterebilir.
+*   **Colors and arrows (Renkler ve oklar):** Bir üst lige yükselmeyi/bir alt lige düşmeyi veya kıtasal kupalara (Şampiyonlar Ligi, Avrupa Ligi vb.) katılım hakkını temsil eder.
+*   **Trophy (Kupa Simgesi):** Takımın, playoff veya ligi lider bitirerek şampiyon olduğunu gösterir.
+*   **Star (Yıldız Simgesi):** Şampiyonun başka bir yöntemle (örneğin playoff) belirlendiği liglerde, normal sezonu lider bitiren takımı gösterir.
+*   **MP (OM - Oynanan Maç):** Takımın oynadığı toplam maç sayısı.
+*   **W (G - Galibiyet):** Kazanılan maç sayısı.
+*   **D (B - Beraberlik):** Berabere biten maç sayısı.
+*   **L (M - Mağlubiyet):** Kaybedilen maç sayısı.
+*   **GF (AG - Atılan Gol):** Takımın attığı toplam gol sayısı.
+*   **GA (YG - Yenilen Gol):** Takımın yediği toplam gol sayısı.
+*   **GD (AV - Averaj):** Atılan gol ile yenilen gol arasındaki fark (AG - YG).
+*   **Pts (P - Puan):** Takımın topladığı toplam puan. (Galibiyet için 3, beraberlik için 1 puan).
+*   **Pts/MP (MBP - Maç Başına Puan):** Oynanan maç başına kazanılan puan ortalaması.
+*   **Last 5 (Son 5 Maç):** Takımın oynadığı son beş maçın sonucu (soldan sağa kronolojik olarak).
+*   **Attendance (Seyirci Ortalaması):** Sezon boyunca iç saha maçlarındaki maç başına ortalama seyirci sayısı.
+*   **Top Team Scorer (Takımın Gol Kralı):** Sadece o sezonki lig maçlarında takım adına en çok gol atan oyuncu.
+*   **Goalkeeper (Kaleci):** Ligde en fazla dakika oynayan kaleci.
+
+### **Kaleci İstatistikleri (Goalkeeping)**
+
+*   **# Pl (Oyuncu Sayısı):** Maçlarda kullanılan toplam oyuncu sayısı.
+
+**Oyun Süresi (Playing Time)**
+*   **MP (OM - Oynanan Maç):** Kalecinin oynadığı maç sayısı.
+*   **Starts (İlk 11):** Kalecinin ilk 11'de başladığı maç sayısı.
+*   **Min (Dakika):** Oynanan toplam dakika.
+*   **90s (90 Dakika):** Oynanan toplam dakikanın 90'a bölünmüş hali.
+
+**Performans (Performance)**
+*   **GA (YG - Yenilen Gol):** Kalesinde gördüğü toplam gol sayısı.
+*   **GA90 (90 Dakika Başına Yediği Gol):** 90 dakika başına kalesinde gördüğü ortalama gol sayısı.
+*   **SoTA (Kalesine Gelen İsabetli Şut):** Rakip takımın kaleyi bulan toplam şut sayısı.
+*   **Save% (Kurtarış Yüzdesi):** Yapılan kurtarışların, kaleye gelen isabetli şutlara oranı. `(Kalesine Gelen İsabetli Şut - Yediği Gol) / Kalesine Gelen İsabetli Şut`. Penaltı vuruşlarını içermez.
+*   **W, D, L (Galibiyet, Beraberlik, Mağlubiyet):** Kalecinin oynadığı maçlardaki galibiyet, beraberlik ve mağlubiyet sayıları.
+*   **CS (Gol Yemediği Maç):** Kalecinin gol yemeden tamamladığı maç sayısı (Clean Sheet).
+*   **CS% (Gol Yememe Yüzdesi):** Gol yemeden tamamlanan maçların, oynanan toplam maça oranı.
+
+**Penaltı Vuruşları (Penalty Kicks)**
+*   **PKatt (Kullanılan Penaltı - Rakip):** Rakibin kullandığı toplam penaltı vuruşu sayısı.
+*   **PKA (Yenilen Penaltı Golü):** Penaltıdan yenilen gol sayısı.
+*   **PKsv (Kurtarılan Penaltı):** Kalecinin kurtardığı penaltı sayısı.
+*   **PKm (Kaçırılan Penaltı - Rakip):** Rakibin kaçırdığı (kaleyi bulmayan veya dışarı giden) penaltı sayısı.
+*   **Save% (Penaltı Kurtarış Yüzdesi):** Kurtarılan penaltıların, kullanılan toplam penaltı sayısına oranı.
+
+### **Takım Şut İstatistikleri (Squad Shooting)**
+
+*   **# Pl (Oyuncu Sayısı):** Maçlarda kullanılan toplam oyuncu sayısı.
+*   **90s (90 Dakika):** Oynanan toplam dakikanın 90'a bölünmüş hali.
+
+**Standart (Standard)**
+*   **Gls (Gol):** Atılan toplam gol sayısı.
+*   **Sh (Toplam Şut):** Çekilen toplam şut sayısı (penaltılar hariç).
+*   **SoT (İsabetli Şut):** Kaleyi bulan şut sayısı (penaltılar hariç).
+*   **SoT% (İsabetli Şut Yüzdesi):** İsabetli şutların toplam şut sayısına oranı (%).
+*   **Sh/90 (90 Dakika Başına Şut):** 90 dakika başına çekilen ortalama şut sayısı.
+*   **SoT/90 (90 Dakika Başına İsabetli Şut):** 90 dakika başına çekilen ortalama isabetli şut sayısı.
+*   **G/Sh (Şut Başına Gol):** Çekilen her şutun gol olma oranı.
+*   **G/SoT (İsabetli Şut Başına Gol):** Kaleyi bulan her şutun gol olma oranı.
+*   **Dist (Ortalama Şut Mesafesi):** Çekilen tüm şutların kaleye olan ortalama uzaklığı (yarda cinsinden, penaltılar hariç).
+*   **PK (Atılan Penaltı Golü):** Golle sonuçlanan penaltı vuruşları.
+*   **PKatt (Kullanılan Penaltı):** Takımın kullandığı toplam penaltı vuruşu sayısı.
+
+### **Takım Oyun Süreleri (Squad Playing Time)**
+
+*   **# Pl (Oyuncu Sayısı):** Maçlarda kullanılan toplam oyuncu sayısı.
+*   **Age (Ortalama Yaş):** Oynanan dakikalara göre ağırlıklandırılmış yaş ortalaması.
+
+**Oyun Süresi (Playing Time)**
+*   **MP (OM - Oynanan Maç):** Oyuncunun oynadığı maç sayısı.
+*   **Min (Dakika):** Oynanan toplam dakika.
+*   **Mn/MP (Maç Başına Dakika):** Oynanan maç başına düşen ortalama dakika.
+*   **Min% (Takım Dakikalarındaki Yüzdesi):** Oyuncunun sahada olduğu sürenin, takımın toplam oynadığı süreye oranı (%).
+*   **90s (90 Dakika):** Oynanan toplam dakikanın 90'a bölünmüş hali.
+
+**İlk 11 (Starts)**
+*   **Starts (İlk 11 Başlama):** Oyuncunun ilk 11'de başladığı maç sayısı.
+*   **Mn/Start (İlk 11 Başladığı Maç Başına Dakika):** İlk 11'de başlanan maç başına oynanan ortalama dakika.
+*   **Compl (Tamamladığı Maç Sayısı):** Oyuncunun baştan sona oynadığı maç sayısı.
+
+**Yedek (Subs)**
+*   **Subs (Oyuna Sonradan Girme):** Oyuncunun yedekten oyuna girdiği maç sayısı.
+*   **Mn/Sub (Yedekten Girilen Maç Başına Dakika):** Oyuna sonradan dahil olunduğunda oynanan ortalama dakika.
+*   **unSub (Kullanılmadığı Yedek Maç):** Yedek kulübesinde olup oyuna girmediği maç sayısı.
+
+**Takım Başarısı (Oyuncu Sahadayken) (Team Success)**
+*   **PPM (Maç Başına Puan):** Oyuncunun forma giydiği maçlarda takımın kazandığı puan ortalaması.
+*   **onG (Sahadayken Atılan Gol):** Oyuncu sahadayken takımın attığı gol sayısı.
+*   **onGA (Sahadayken Yenilen Gol):** Oyuncu sahadayken takımın yediği gol sayısı.
+*   **+/- (Artı/Eksi):** Oyuncu sahadayken takımın attığı gol ile yediği gol arasındaki fark.
+*   **+/-90 (90 Dakika Başına Artı/Eksi):** Oyuncunun oynadığı her 90 dakika başına takımın artı/eksi değeri.
+
+### **Takım Diğer İstatistikler (Squad Miscellaneous Stats)**
+
+*   **# Pl (Oyuncu Sayısı):** Maçlarda kullanılan toplam oyuncu sayısı.
+*   **90s (90 Dakika):** Oynanan toplam dakikanın 90'a bölünmüş hali.
+
+**Performans (Performance)**
+*   **CrdY (Sarı Kart):** Görülen sarı kart sayısı.
+*   **CrdR (Kırmızı Kart):** Görülen kırmızı kart sayısı.
+*   **2CrdY (İkinci Sarıdan Kırmızı):** İkinci sarı karttan dolayı görülen kırmızı kart sayısı.
+*   **Fls (Yapılan Faul):** Yapılan toplam faul sayısı.
+*   **Fld (Maruz Kalınan Faul):** Kazanılan (rakibin yaptığı) faul sayısı.
+*   **Off (Ofsayt):** Düşülen ofsayt sayısı.
+*   **Crs (Orta):** Yapılan orta sayısı.
+*   **Int (Top Kesme):** Rakibin pasını kesme veya engelleme sayısı.
+*   **TklW (Kazanılan Müdahale):** Yapılan müdahale sonucunda topun takımda kaldığı başarılı müdahale sayısı.
+*   **PKwon (Kazanılan Penaltı):** Takımın lehine kazanılan penaltı sayısı.
+*   **PKcon (Sebep Olunan Penaltı):** Takımın aleyhine neden olunan penaltı sayısı.
+*   **OG (Kendi Kalesine Gol):** Oyuncunun kendi kalesine attığı gol sayısı.
+
 ### 1. Player Standard Stats (Oyuncu Standart İstatistikleri)
 
 Bu tablo, takımdaki her oyuncunun genel performansını özetler.

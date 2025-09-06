@@ -1,0 +1,27 @@
+Player,Nation,Pos,Age,MP,Playing Time - Starts,Playing Time - Min,Playing Time - 90s,Performance - Gls,Performance - Ast,Performance - G+A,Performance - G-PK,Performance - PK,Performance - PKatt,Performance - CrdY,Performance - CrdR,Per 90 Minutes - Gls,Per 90 Minutes - Ast,Per 90 Minutes - G+A,Per 90 Minutes - G-PK,Per 90 Minutes - G+A-PK,Matches
+Marko Jevtović,rs SRB,"MF,DF",32-044,3,3,266.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Umut Nayir,tr TUR,FW,32-070,3,3,265.0,2.9,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.68,0.0,0.68,0.68,0.68,Matches
+Melih Ibrahimoglu,tr TUR,MF,25-051,3,3,257.0,2.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.35,0.35,0.0,0.35,Matches
+Guilherme Sityá,pt POR,DF,35-158,3,3,257.0,2.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.35,0.35,0.0,0.35,Matches
+Riechedly Bazoer,cw CUW,DF,28-329,3,3,249.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Yhoan Andzouana,cg CGO,DF,28-267,3,3,248.0,2.8,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.36,0.36,0.73,0.36,0.73,Matches
+Alassane Ndao,sn SEN,"MF,FW",28-260,3,3,245.0,2.7,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.37,0.73,1.1,0.37,1.1,Matches
+Enis Bardhi,mk MKD,MF,30-066,3,3,232.0,2.6,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.39,0.0,0.39,0.0,0.0,Matches
+Danijel Aleksić,rs SRB,MF,34-129,3,3,195.0,2.2,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.46,0.0,0.46,0.46,0.46,Matches
+Adil Demirbağ,tr TUR,DF,27-270,2,2,180.0,2.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.5,0.5,1.0,0.5,1.0,Matches
+Deniz Ertaş,tr TUR,GK,20-170,2,2,180.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.5,Matches
+Uğurcan Yazgılı,tr TUR,DF,26-150,2,1,111.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Bahadır Güngördü,,GK,27-272,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Pedrinho,br BRA,MF,28-261,3,0,57.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Morten Bjørlo,no NOR,MF,29-337,3,0,47.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Muhammet Tunahan Taşçı,tr TUR,MF,23-130,3,0,47.0,0.5,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.91,0.0,1.91,1.91,1.91,Matches
+Marius Ştefănescu,ro ROU,"DF,FW",27-023,2,0,26.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Jackson Muleka,cd COD,"FW,MF",25-337,1,0,13.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Melih Bostan,,FW,21-151,1,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Kaan Akyazi,,FW,20-010,0,0,,,,,,,,,,,,,,,,Matches
+Egemen Aydın,,GK,18-117,0,0,,,,,,,,,,,,,,,,Matches
+Josip Čalušić,hr CRO,DF,31-330,0,0,,,,,,,,,,,,,,,,Matches
+Mücahit Ibrahimoglu,at AUT,MF,20-181,0,0,,,,,,,,,,,,,,,,Matches
+Karahan Yasir Subaşı,tr TUR,DF,29-248,0,0,,,,,,,,,,,,,,,,Matches
+Squad Total,,,29.3,3,33,270.0,3.0,8.0,7.0,15.0,7.0,1.0,1.0,6.0,0.0,2.67,2.33,5.0,2.33,4.67,
+Opponent Total,,,27.8,3,33,270.0,3.0,2.0,2.0,4.0,2.0,0.0,0.0,7.0,0.0,0.67,0.67,1.33,0.67,1.33,

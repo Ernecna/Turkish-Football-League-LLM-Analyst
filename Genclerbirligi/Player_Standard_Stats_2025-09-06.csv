@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,MP,Playing Time - Starts,Playing Time - Min,Playing Time - 90s,Performance - Gls,Performance - Ast,Performance - G+A,Performance - G-PK,Performance - PK,Performance - PKatt,Performance - CrdY,Performance - CrdR,Per 90 Minutes - Gls,Per 90 Minutes - Ast,Per 90 Minutes - G+A,Per 90 Minutes - G-PK,Per 90 Minutes - G+A-PK,Matches
+Gökhan Akkan,tr TUR,GK,30-248,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Dimitris Goutas,gr GRE,DF,31-155,4,4,360.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.25,0.25,Matches
+Pedro Pereira,pt POR,DF,27-227,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Žan Žužek,si SVN,"MF,DF",28-223,4,4,357.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.25,0.0,0.25,0.25,0.25,Matches
+Metehan Mimaroğlu,,"MF,FW",31-061,4,4,293.0,3.3,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.31,0.0,0.31,0.31,0.31,Matches
+Thalisson Kelven,br BRA,DF,27-122,4,3,308.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Göktan Gürpüz,de GER,"MF,FW",22-227,4,3,281.0,3.1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.32,0.32,0.0,0.32,Matches
+Matěj Hanousek,cz CZE,DF,32-096,4,3,272.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Michał Nalepa,pl POL,"MF,FW",30-166,3,3,260.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches
+Abdurrahim Dursun,tr TUR,"MF,DF",26-279,4,3,252.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Adama Traoré,ml MLI,MF,30-093,2,2,157.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Moussa Kyabou,ml MLI,MF,27-141,2,2,146.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Samed Onur,tr TUR,MF,23-053,4,1,146.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Sekou Koita,ml MLI,FW,25-282,2,1,112.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Daniel Popa,ro ROU,FW,31-054,1,1,67.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Fıratcan Üzüm,,MF,26-094,1,1,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Oghenekaro Etebo,ng NGA,MF,29-301,1,1,41.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Oğulcan Ülgün,tr TUR,MF,27-118,1,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Sinan Osmanoğlu,tr TUR,DF,35-240,3,0,33.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+M'Baye Niang,sn SEN,"FW,MF",30-261,1,0,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Henry Onyekuru,ng NGA,"FW,MF",28-093,1,0,19.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Furkan Ayaz,,,15-340,2,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Dilhan Demir,de GER,MF,22-070,1,0,9.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Mehmet Akbal,,MF,18-021,0,0,,,,,,,,,,,,,,,,Matches
+Yiğit Aydar,,DF,16-351,0,0,,,,,,,,,,,,,,,,Matches
+Ebrar Aydın,,GK,24-341,0,0,,,,,,,,,,,,,,,,Matches
+Erhan Erentürk,tr TUR,GK,30-099,0,0,,,,,,,,,,,,,,,,Matches
+Mikail Okyar,,MF,26-226,0,0,,,,,,,,,,,,,,,,Matches
+Yusuf Temel,,FW,17-217,0,0,,,,,,,,,,,,,,,,Matches
+Squad Total,,,28.6,4,44,360.0,4.0,3.0,1.0,4.0,3.0,0.0,0.0,7.0,1.0,0.75,0.25,1.0,0.75,1.0,
+Opponent Total,,,28.7,4,44,360.0,4.0,7.0,4.0,11.0,5.0,2.0,2.0,6.0,0.0,1.75,1.0,2.75,1.25,2.25,

@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,MP,Playing Time - Starts,Playing Time - Min,Playing Time - 90s,Performance - Gls,Performance - Ast,Performance - G+A,Performance - G-PK,Performance - PK,Performance - PKatt,Performance - CrdY,Performance - CrdR,Per 90 Minutes - Gls,Per 90 Minutes - Ast,Per 90 Minutes - G+A,Per 90 Minutes - G-PK,Per 90 Minutes - G+A-PK,Matches
+Aleksandar Jovanović,rs SRB,GK,32-274,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Bruno Petković,hr CRO,FW,30-355,4,4,360.0,4.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.5,0.5,Matches
+Show,ao ANG,MF,26-184,4,4,333.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Aaron Appindangoyé,ga GAB,DF,33-198,4,4,315.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Joseph Nonge,be BEL,MF,20-114,4,4,299.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Ryan Mendes,cv CPV,FW,35-241,4,4,271.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Anfernee Dijksteel,sr SUR,DF,28-314,4,3,339.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Massadio Haïdara,ml MLI,DF,32-278,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Oğulcan Çağlayan,tr TUR,FW,29-168,4,2,196.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Oleksandr Syrota,ua UKR,DF,25-087,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Ahmet Oğuz,tr TUR,DF,32-233,2,2,175.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Can Keles,at AUT,FW,24-004,3,2,169.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Samet Yalçın,,MF,31-187,2,2,128.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches
+Tayfur Bingöl,tr TUR,MF,32-238,2,1,135.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Muharrem Cinan,,DF,27-116,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Tarkan Serbest,tr TUR,MF,31-127,2,1,88.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Mateusz Wieteska,pl POL,DF,28-207,1,1,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Karol Linetty,pl POL,MF,30-216,2,0,66.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Mesut Can Tunalı,tr TUR,MF,24-060,1,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Dan Agyei,eng ENG,"FW,MF",28-097,3,0,39.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Rigoberto Rivas,hn HON,"FW,MF",27-037,1,0,16.0,0.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.63,5.63,0.0,5.63,Matches
+Cihat Çelik,nl NED,MF,29-247,2,0,13.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Furkan Gedik,,MF,23-056,1,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Ege Bilim,,,19-145,0,0,,,,,,,,,,,,,,,,Matches
+Bünyamin Dalkılıç,,FW,19-153,0,0,,,,,,,,,,,,,,,,Matches
+Gökhan Değirmenci,tr TUR,GK,36-169,0,0,,,,,,,,,,,,,,,,Matches
+Onur Öztonga,,DF,25-243,0,0,,,,,,,,,,,,,,,,Matches
+Ahmet Sagat,de GER,FW,29-102,0,0,,,,,,,,,,,,,,,,Matches
+Squad Total,,,29.7,4,44,360.0,4.0,2.0,1.0,3.0,2.0,0.0,0.0,8.0,1.0,0.5,0.25,0.75,0.5,0.75,
+Opponent Total,,,28.7,4,44,360.0,4.0,5.0,4.0,9.0,5.0,0.0,0.0,7.0,0.0,1.25,1.0,2.25,1.25,2.25,

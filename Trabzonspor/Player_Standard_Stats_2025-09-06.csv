@@ -1,0 +1,27 @@
+Player,Nation,Pos,Age,MP,Playing Time - Starts,Playing Time - Min,Playing Time - 90s,Performance - Gls,Performance - Ast,Performance - G+A,Performance - G-PK,Performance - PK,Performance - PKatt,Performance - CrdY,Performance - CrdR,Per 90 Minutes - Gls,Per 90 Minutes - Ast,Per 90 Minutes - G+A,Per 90 Minutes - G-PK,Per 90 Minutes - G+A-PK,Matches
+Arsenii Batahov,ua UKR,DF,23-185,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Uğurcan Çakır,tr TUR,GK,29-154,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Stefan Savić,me MNE,DF,34-241,4,4,360.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.25,0.25,Matches
+Okay Yokuşlu,tr TUR,MF,31-181,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Mustafa Eskihellaç,tr TUR,DF,28-124,4,4,359.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.25,0.25,0.0,0.25,Matches
+Tim Jabol-Folcarelli,fr FRA,MF,25-274,4,4,315.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Paul Onuachu,ng NGA,FW,31-101,4,4,310.0,3.4,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.58,0.0,0.58,0.58,0.58,Matches
+Kazeem Olaigbe,be BEL,MF,22-247,4,4,307.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Wagner Pina,cv CPV,DF,22-307,4,4,296.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Oleksandr Zubkov,ua UKR,MF,29-034,4,3,266.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.34,0.34,0.0,0.34,Matches
+Felipe Augusto,br BRA,FW,21-200,4,3,230.0,2.6,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.39,0.0,0.39,0.39,0.39,Matches
+Edin Višća,ba BIH,MF,35-201,3,1,98.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Anthony Nwakaeme,ng NGA,MF,36-169,1,1,83.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Arif Boşluk,,DF,22-092,3,0,78.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Danylo Sikan,ua UKR,FW,24-143,4,0,64.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Batista Mendy,fr FRA,"DF,MF",25-237,2,0,50.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Ozan Tufan,tr TUR,"DF,FW",30-167,3,0,50.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Cihan Çanak,tr TUR,MF,20-225,1,0,9.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Muhammed Cham,at AUT,MF,24-345,1,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Rayyan Baniya,,DF,26-200,0,0,,,,,,,,,,,,,,,,Matches
+Boran Başkan,tr TUR,MF,19-161,0,0,,,,,,,,,,,,,,,,Matches
+Ahmet Doğan Yıldırım,,GK,18-309,0,0,,,,,,,,,,,,,,,,Matches
+Salih Malkoçoglu,,MF,20-195,0,0,,,,,,,,,,,,,,,,Matches
+Serdar Saatçı,tr TUR,DF,22-204,0,0,,,,,,,,,,,,,,,,Matches
+Squad Total,,,27.8,4,44,360.0,4.0,4.0,2.0,6.0,4.0,0.0,0.0,6.0,0.0,1.0,0.5,1.5,1.0,1.5,
+Opponent Total,,,29.0,4,44,360.0,4.0,1.0,1.0,2.0,1.0,0.0,0.0,7.0,0.0,0.25,0.25,0.5,0.25,0.5,

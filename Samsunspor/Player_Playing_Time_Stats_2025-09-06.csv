@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,MP,Playing Time - Min,Playing Time - Mn/MP,Playing Time - Min%,Playing Time - 90s,Starts - Starts,Starts - Mn/Start,Starts - Compl,Subs - Subs,Subs - Mn/Sub,Subs - unSub,Team Success - PPM,Team Success - onG,Team Success - onGA,Team Success - +/-,Team Success - +/-90,Team Success - On-Off,Matches
+Rick van Drongelen,nl NED,DF,26-260,3,270.0,90.0,100.0,3.0,3,90.0,3,0,,0,2.33,4.0,2.0,2.0,0.67,,Matches
+Okan Kocuk,tr TUR,GK,30-041,3,270.0,90.0,100.0,3.0,3,90.0,3,0,,0,2.33,4.0,2.0,2.0,0.67,,Matches
+Ľubomír Šatka,sk SVK,DF,29-278,3,270.0,90.0,100.0,3.0,3,90.0,3,0,,0,2.33,4.0,2.0,2.0,0.67,,Matches
+Marius Mouandilmadji,td CHA,FW,28-227,3,261.0,87.0,96.7,2.9,3,87.0,1,0,,0,2.33,4.0,1.0,3.0,1.03,11.03,Matches
+Olivier Ntcham,cm CMR,MF,29-209,3,261.0,87.0,96.7,2.9,3,87.0,2,0,,0,2.33,4.0,1.0,3.0,1.03,11.03,Matches
+Zeki Yavru,tr TUR,DF,34-001,3,240.0,80.0,88.9,2.7,3,80.0,1,0,,0,2.33,3.0,1.0,2.0,0.75,0.75,Matches
+Emre Kılınç,tr TUR,"MF,FW",31-014,3,230.0,77.0,85.2,2.6,3,77.0,1,0,,0,2.33,2.0,2.0,0.0,0.0,-4.5,Matches
+Logi Tómasson,is ISL,DF,24-358,3,225.0,75.0,83.3,2.5,3,75.0,2,0,,0,2.33,3.0,2.0,1.0,0.4,-1.6,Matches
+Carlo Holse,dk DEN,MF,26-096,3,166.0,55.0,61.5,1.8,2,70.0,0,1,26.0,0,2.33,3.0,0.0,3.0,1.63,2.49,Matches
+Celil Yüksel,tr TUR,MF,27-248,2,135.0,68.0,50.0,1.5,2,68.0,1,0,,1,3.0,2.0,1.0,1.0,0.67,0.0,Matches
+Landry Dimata,be BEL,"MF,FW",28-005,2,130.0,65.0,48.1,1.4,2,65.0,0,0,,1,3.0,1.0,0.0,1.0,0.69,0.05,Matches
+Antoine Makoumbou,cg CGO,MF,27-050,3,146.0,49.0,54.1,1.6,1,83.0,0,2,32.0,0,2.33,1.0,2.0,-1.0,-0.62,-2.79,Matches
+Anthony Musaba,nl NED,MF,24-274,1,90.0,90.0,33.3,1.0,1,90.0,1,0,,0,1.0,1.0,1.0,0.0,0.0,-1.0,Matches
+Yunus Emre Çift,tr TUR,MF,22-005,2,65.0,33.0,24.1,0.7,1,64.0,0,1,1.0,1,2.0,0.0,1.0,-1.0,-1.38,-2.7,Matches
+Soner Gönül,tr TUR,DF,28-087,2,59.0,30.0,21.9,0.7,0,,0,2,30.0,1,2.0,2.0,0.0,2.0,3.05,3.05,Matches
+Arbnor Muja,al ALB,"FW,MF",26-281,2,50.0,25.0,18.5,0.6,0,,0,2,25.0,0,3.0,2.0,1.0,1.0,1.8,1.39,Matches
+Soner Aydoğdu,tr TUR,MF,34-244,3,38.0,13.0,14.1,0.4,0,,0,3,13.0,0,2.33,2.0,1.0,1.0,2.37,1.98,Matches
+Joe Mendes,se SWE,DF,22-249,2,30.0,15.0,11.1,0.3,0,,0,2,15.0,1,2.0,1.0,1.0,0.0,0.0,-0.75,Matches
+Afonso Sousa,pt POR,"FW,MF",25-126,1,26.0,26.0,9.6,0.3,0,,0,1,26.0,0,1.0,1.0,0.0,1.0,3.46,3.09,Matches
+Ebrima Ceesay,gm GAM,FW,19-097,1,8.0,8.0,3.0,0.1,0,,0,1,8.0,0,3.0,0.0,1.0,-1.0,-11.25,-12.28,Matches
+Toni Borevkovic,hr CRO,DF,28-080,0,,,,,0,,0,0,,1,,,,,,,Matches
+Bedirhan Çetin,tr TUR,DF,19-069,0,,,,,0,,0,0,,2,,,,,,,Matches
+Albert Posiadala,pl POL,GK,22-193,0,,,,,0,,0,0,,1,,,,,,,Matches
+Efe Töruz,,GK,18-363,0,,,,,0,,0,0,,1,,,,,,,Matches
+Efe Üstün,,GK,17-122,0,,,,,0,,0,0,,2,,,,,,,Matches
+Polat Yaldır,tr TUR,FW,22-112,0,,,,,0,,0,0,,3,,,,,,,Matches
+Squad Total,,,28.5,3,270.0,90.0,100.0,3.0,33,81.0,18,15,20.0,15,2.33,4.0,2.0,2.0,0.67,,
+Opponent Total,,,28.7,3,270.0,90.0,100.0,3.0,33,81.0,20,12,26.0,18,0.33,2.0,4.0,-2.0,-0.67,,

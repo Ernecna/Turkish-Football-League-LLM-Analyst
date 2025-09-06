@@ -1,0 +1,27 @@
+Player,Nation,Pos,Age,MP,Playing Time - Min,Playing Time - Mn/MP,Playing Time - Min%,Playing Time - 90s,Starts - Starts,Starts - Mn/Start,Starts - Compl,Subs - Subs,Subs - Mn/Sub,Subs - unSub,Team Success - PPM,Team Success - onG,Team Success - onGA,Team Success - +/-,Team Success - +/-90,Team Success - On-Off,Matches
+Samet Akaydın,tr TUR,DF,31-177,3,270.0,90.0,100.0,3.0,3,90.0,3,0,,0,0.33,1.0,6.0,-5.0,-1.67,,Matches
+Erdem Canpolat,de GER,GK,24-146,3,270.0,90.0,100.0,3.0,3,90.0,3,0,,0,0.33,1.0,6.0,-5.0,-1.67,,Matches
+Muhammet Taha Şahin,,"DF,MF",24-319,3,270.0,90.0,100.0,3.0,3,90.0,3,0,,0,0.33,1.0,6.0,-5.0,-1.67,,Matches
+Ali Sowe,gm GAM,FW,31-084,3,269.0,90.0,99.6,3.0,3,90.0,2,0,,0,0.33,1.0,6.0,-5.0,-1.67,-1.67,Matches
+Casper Højer Nielsen,dk DEN,DF,30-290,3,267.0,89.0,98.9,3.0,3,89.0,2,0,,0,0.33,1.0,6.0,-5.0,-1.69,-1.69,Matches
+Ibrahim Olawoyin,ng NGA,MF,27-279,3,252.0,84.0,93.3,2.8,3,84.0,2,0,,0,0.33,1.0,5.0,-4.0,-1.43,3.57,Matches
+Qazim Laçi,al ALB,MF,29-230,3,243.0,81.0,90.0,2.7,3,81.0,0,0,,0,0.33,1.0,3.0,-2.0,-0.74,9.26,Matches
+Mithat Pala,tr TUR,"MF,DF",25-022,3,239.0,80.0,88.5,2.7,3,80.0,2,0,,0,0.33,0.0,4.0,-4.0,-1.51,1.4,Matches
+Giannis Papanikolaou,gr GRE,MF,26-292,3,238.0,79.0,88.1,2.6,3,79.0,2,0,,0,0.33,1.0,4.0,-3.0,-1.13,4.49,Matches
+Xusniddin Aliqulov,uz UZB,DF,26-155,3,172.0,57.0,63.7,1.9,2,81.0,1,1,10.0,0,0.33,1.0,4.0,-3.0,-1.57,0.27,Matches
+Halil Dervişoğlu,tr TUR,FW,25-272,3,170.0,57.0,63.0,1.9,2,69.0,0,1,32.0,0,0.33,0.0,3.0,-3.0,-1.59,0.21,Matches
+Attila Mocsi,hu HUN,DF,25-100,3,101.0,34.0,37.4,1.1,1,80.0,0,2,11.0,0,0.33,0.0,2.0,-2.0,-1.78,-0.18,Matches
+Valentin Mihaila,ro ROU,MF,25-216,2,69.0,35.0,25.6,0.8,1,58.0,0,1,11.0,0,0.5,0.0,1.0,-1.0,-1.3,0.49,Matches
+Altin Zeqiri,xk KVX,MF,25-050,2,63.0,32.0,23.3,0.7,0,,0,2,32.0,1,0.0,1.0,4.0,-3.0,-4.29,-3.42,Matches
+Dal Varesanovic,ba BIH,MF,24-106,2,54.0,27.0,20.0,0.6,0,,0,2,27.0,0,0.0,1.0,4.0,-3.0,-5.0,-4.17,Matches
+Muhamed Buljubasic,ba BIH,MF,21-064,2,19.0,10.0,7.0,0.2,0,,0,2,10.0,1,0.5,0.0,1.0,-1.0,-4.74,-3.3,Matches
+Václav Jurečka,cz CZE,FW,31-072,1,3.0,3.0,1.1,0.0,0,,0,1,3.0,0,0.0,0.0,1.0,-1.0,-30.0,-28.65,Matches
+Emrecan Bulut,,MF,23-223,1,1.0,1.0,0.4,0.0,0,,0,1,1.0,2,1.0,0.0,0.0,0.0,0.0,1.67,Matches
+Seyfettin Anıl Yaşar,tr TUR,DF,23-067,0,,,,,0,,0,0,,2,,,,,,,Matches
+Taylan Antalyalı,tr TUR,MF,30-241,0,,,,,0,,0,0,,1,,,,,,,Matches
+Efe Doğan,,GK,21-017,0,,,,,0,,0,0,,3,,,,,,,Matches
+Furkan Orak,,DF,24-101,0,,,,,0,,0,0,,3,,,,,,,Matches
+Modibo Sagnan,ml MLI,DF,26-145,0,,,,,0,,0,0,,3,,,,,,,Matches
+Deniz Yaşar,,FW,18-332,0,,,,,0,,0,0,,1,,,,,,,Matches
+Squad Total,,,27.5,3,270.0,90.0,100.0,3.0,33,84.0,20,13,16.0,17,0.33,1.0,6.0,-5.0,-1.67,,
+Opponent Total,,,27.6,3,270.0,90.0,100.0,3.0,33,84.0,18,15,16.0,15,2.33,6.0,1.0,5.0,1.67,,

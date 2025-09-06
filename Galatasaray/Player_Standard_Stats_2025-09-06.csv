@@ -1,0 +1,28 @@
+Player,Nation,Pos,Age,Playing Time - MP,Playing Time - Starts,Playing Time - Min,Playing Time - 90s,Performance - Gls,Performance - Ast,Performance - G+A,Performance - G-PK,Performance - PK,Performance - PKatt,Performance - CrdY,Performance - CrdR,Per 90 Minutes - Gls,Per 90 Minutes - Ast,Per 90 Minutes - G+A,Per 90 Minutes - G-PK,Per 90 Minutes - G+A-PK,Matches
+Abdülkerim Bardakcı,tr TUR,DF,30-364,4,4,360.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.25,0.25,0.0,0.25,Matches
+Günay Güvenç,,GK,34-073,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Leroy Sané,de GER,MF,29-238,4,4,352.0,3.9,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.26,0.26,0.51,0.26,0.51,Matches
+Roland Sallai,hu HUN,DF,28-107,4,4,348.0,3.9,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.26,0.26,0.0,0.26,Matches
+Gabriel Sara,br BRA,MF,26-072,4,4,333.0,3.7,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.27,0.27,0.0,0.27,Matches
+Lucas Torreira,uy URU,MF,29-207,4,4,329.0,3.7,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.27,0.27,0.0,0.27,Matches
+Eren Elmalı,tr TUR,"DF,MF",25-061,4,4,326.0,3.6,3.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.83,0.0,0.83,0.83,0.83,Matches
+Davinson Sánchez,co COL,DF,29-086,4,4,325.0,3.6,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.28,0.0,0.28,0.28,0.28,Matches
+Yunus Akgün,tr TUR,MF,25-061,4,4,299.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Mario Lemina,ga GAB,MF,32-005,3,3,190.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Victor Osimhen,ng NGA,FW,26-251,3,2,209.0,2.3,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.86,0.0,0.86,0.86,0.86,Matches
+Barış Alper Yılmaz,tr TUR,FW,25-106,2,2,170.0,1.9,3.0,1.0,4.0,1.0,2.0,2.0,0.0,0.0,1.59,0.53,2.12,0.53,1.06,Matches
+Ismail Jakobs,sn SEN,DF,26-020,4,1,120.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Kaan Ayhan,tr TUR,"DF,MF",30-300,4,0,63.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Nicolò Zaniolo,it ITA,"FW,MF",26-066,4,0,54.0,0.6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.67,1.67,0.0,1.67,Matches
+Mauro Icardi,ar ARG,FW,32-199,3,0,53.0,0.6,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,3.4,0.0,3.4,3.4,3.4,Matches
+Berkan Kutlu,tr TUR,MF,27-224,2,0,31.0,0.3,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.9,2.9,0.0,2.9,Matches
+Arda Ünyay,tr TUR,DF,18-231,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Metehan Baltacı,tr TUR,DF,22-307,1,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Wilfried Singo,ci CIV,"DF,MF",24-255,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Yusuf Demir,at AUT,MF,22-096,0,0,,,,,,,,,,,,,,,,Matches
+Elias Jelert,dk DEN,DF,22-086,0,0,,,,,,,,,,,,,,,,Matches
+Kazımcan Karataş,tr TUR,DF,22-233,0,0,,,,,,,,,,,,,,,,Matches
+Ahmed Kutucu,tr TUR,"FW,MF",25-189,0,0,,,,,,,,,,,,,,,,Matches
+Jankat Yilmaz,tr TUR,GK,21-021,0,0,,,,,,,,,,,,,,,,Matches
+Squad Total,,,28.6,4,44,360.0,4.0,12.0,8.0,20.0,10.0,2.0,2.0,7.0,0.0,3.0,2.0,5.0,2.5,4.5,
+Opponent Total,,,28.3,4,44,360.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,9.0,2.0,0.25,0.0,0.25,0.25,0.25,

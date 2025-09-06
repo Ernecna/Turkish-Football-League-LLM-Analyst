@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,MP,Playing Time - Min,Playing Time - Mn/MP,Playing Time - Min%,Playing Time - 90s,Starts - Starts,Starts - Mn/Start,Starts - Compl,Subs - Subs,Subs - Mn/Sub,Subs - unSub,Team Success - PPM,Team Success - onG,Team Success - onGA,Team Success - +/-,Team Success - +/-90,Team Success - On-Off,Matches
+Tammy Abraham,eng ENG,FW,27-339,2,180.0,90.0,100.0,2.0,2,90.0,2,0,,0,1.5,2.0,3.0,-1.0,-0.5,,Matches
+Ohis Felix Uduokhai,de GER,DF,27-362,2,180.0,90.0,100.0,2.0,2,90.0,2,0,,0,1.5,2.0,3.0,-1.0,-0.5,,Matches
+Mert Günok,tr TUR,GK,36-189,2,180.0,90.0,100.0,2.0,2,90.0,2,0,,0,1.5,2.0,3.0,-1.0,-0.5,,Matches
+Rafa Silva,pt POR,MF,32-112,2,180.0,90.0,100.0,2.0,2,90.0,2,0,,0,1.5,2.0,3.0,-1.0,-0.5,,Matches
+Jonas Svensson,no NOR,DF,32-184,2,174.0,87.0,96.7,1.9,2,87.0,1,0,,0,1.5,1.0,3.0,-2.0,-1.03,-16.03,Matches
+Wilfred Ndidi,ng NGA,MF,28-264,2,159.0,80.0,88.3,1.8,2,80.0,1,0,,0,1.5,1.0,3.0,-2.0,-1.13,-5.42,Matches
+Orkun Kökçü,tr TUR,MF,24-251,2,158.0,79.0,87.8,1.8,2,79.0,0,0,,0,1.5,1.0,2.0,-1.0,-0.57,-0.57,Matches
+João Mário,pt POR,MF,32-230,2,106.0,53.0,58.9,1.2,1,90.0,1,1,16.0,0,1.5,2.0,2.0,0.0,0.0,1.22,Matches
+Tiago Djaló,pt POR,DF,25-150,1,90.0,90.0,50.0,1.0,1,90.0,1,0,,0,0.0,0.0,2.0,-2.0,-2.0,-3.0,Matches
+David Jurásek,cz CZE,DF,25-030,1,90.0,90.0,50.0,1.0,1,90.0,1,0,,0,0.0,0.0,2.0,-2.0,-2.0,-3.0,Matches
+Gabriel Paulista,br BRA,DF,34-284,1,90.0,90.0,50.0,1.0,1,90.0,1,0,,0,3.0,2.0,1.0,1.0,1.0,3.0,Matches
+Milot Rashica,xk KVX,MF,29-070,1,89.0,89.0,49.4,1.0,1,89.0,0,0,,0,3.0,1.0,1.0,0.0,0.0,0.99,Matches
+Kartal Yılmaz,tr TUR,MF,24-306,2,80.0,40.0,44.4,0.9,1,74.0,0,1,6.0,0,1.5,1.0,1.0,0.0,0.0,0.9,Matches
+Emir Topçu,tr TUR,DF,24-330,1,69.0,69.0,38.3,0.8,1,69.0,0,0,,1,3.0,1.0,1.0,0.0,0.0,0.81,Matches
+Ernest Muçi,al ALB,MF,24-171,1,57.0,57.0,31.7,0.6,1,57.0,0,0,,0,0.0,0.0,1.0,-1.0,-1.58,-1.58,Matches
+Demir Ege Tıknaz,tr TUR,MF,21-020,2,37.0,19.0,20.6,0.4,0,,0,2,19.0,0,1.5,1.0,1.0,0.0,0.0,0.63,Matches
+El Bilal Touré,ml MLI,FW,23-338,1,33.0,33.0,18.3,0.4,0,,0,1,33.0,0,0.0,0.0,1.0,-1.0,-2.73,-2.73,Matches
+Serkan Terzi,tr TUR,DF,21-244,1,21.0,21.0,11.7,0.2,0,,0,1,21.0,0,3.0,1.0,0.0,1.0,4.29,5.42,Matches
+Taylan Bulut,de GER,DF,19-230,1,6.0,6.0,3.3,0.1,0,,0,1,6.0,1,3.0,1.0,0.0,1.0,15.0,16.03,Matches
+Tayyib Talha Sanuç,tr TUR,DF,25-263,1,1.0,1.0,0.6,0.0,0,,0,1,1.0,1,3.0,0.0,0.0,0.0,0.0,0.5,Matches
+Keny Arroyo,ec ECU,MF,19-204,0,,,,,0,,0,0,,1,,,,,,,Matches
+Emre Bilgin,tr TUR,GK,21-192,0,,,,,0,,0,0,,1,,,,,,,Matches
+Ersin Destanoğlu,tr TUR,GK,24-248,0,,,,,0,,0,0,,2,,,,,,,Matches
+Amir Hadžiahmetović,ba BIH,MF,28-182,0,,,,,0,,0,0,,1,,,,,,,Matches
+Salih Uçan,tr TUR,MF,31-243,0,,,,,0,,0,0,,1,,,,,,,Matches
+Necip Uysal,tr TUR,"DF,MF",34-225,0,,,,,0,,0,0,,2,,,,,,,Matches
+Emrecan Uzunhan,,MF,24-192,0,,,,,0,,0,0,,1,,,,,,,Matches
+Squad Total,,,29.1,2,180.0,90.0,100.0,2.0,22,85.0,14,8,15.0,12,1.5,2.0,3.0,-1.0,-0.5,,
+Opponent Total,,,28.1,2,180.0,90.0,100.0,2.0,22,85.0,12,10,23.0,10,1.5,3.0,2.0,1.0,0.5,,

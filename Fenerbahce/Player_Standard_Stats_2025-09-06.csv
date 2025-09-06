@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,MP,Playing Time - Starts,Playing Time - Min,Playing Time - 90s,Performance - Gls,Performance - Ast,Performance - G+A,Performance - G-PK,Performance - PK,Performance - PKatt,Performance - CrdY,Performance - CrdR,Per 90 Minutes - Gls,Per 90 Minutes - Ast,Per 90 Minutes - G+A,Per 90 Minutes - G-PK,Per 90 Minutes - G+A-PK,Matches
+Milan Škriniar,sk SVK,DF,30-207,3,3,270.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.33,0.0,0.33,0.33,0.33,Matches
+Youssef En-Nesyri,ma MAR,FW,28-097,3,3,266.0,3.0,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.68,0.0,0.68,0.68,0.68,Matches
+Archie Brown,eng ENG,"MF,DF",23-101,3,3,237.0,2.6,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.38,0.38,0.76,0.38,0.76,Matches
+Fred,br BRA,MF,32-185,3,3,208.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+İrfan Can Eğribayat,tr TUR,GK,27-068,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Çağlar Söyüncü,tr TUR,DF,29-106,2,2,180.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.5,Matches
+Oğuz Aydın,tr TUR,"MF,DF",24-314,3,2,172.0,1.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.52,0.52,0.0,0.52,Matches
+Talisca,br BRA,MF,31-217,3,2,171.0,1.9,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.53,0.0,0.53,0.53,0.53,Matches
+Nélson Semedo,pt POR,"MF,DF",31-294,2,2,141.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Jáder Durán,co COL,FW,21-267,2,2,140.0,1.6,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.64,0.64,0.0,0.64,Matches
+Sebastian Szymański,pl POL,MF,26-119,3,1,137.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+İsmail Yüksek,tr TUR,MF,26-223,2,1,124.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Jayden Oosterwolde,nl NED,DF,24-133,2,1,117.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches
+İrfan Kahveci,tr TUR,MF,30-053,3,1,104.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Sofyan Amrabat,ma MAR,MF,29-016,2,1,97.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Yusuf Akçiçek,tr TUR,DF,19-224,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Edson Álvarez,mx MEX,MF,27-317,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Nene Dorgeles,ml MLI,MF,22-257,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Dominik Livaković,hr CRO,GK,30-240,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Mert Müldür,tr TUR,DF,26-156,2,0,46.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Cengiz Ünder,tr TUR,"FW,MF",28-054,1,0,9.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Cenk Tosun,tr TUR,"FW,MF",34-091,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Alexander Djiku,gh GHA,"DF,MF",31-028,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Yiğit Efe Demir,,DF,21-035,0,0,,,,,,,,,,,,,,,,Matches
+Bartuğ Elmaz,tr TUR,MF,22-199,0,0,,,,,,,,,,,,,,,,Matches
+Levent Mercan,de GER,"DF,MF",24-270,0,0,,,,,,,,,,,,,,,,Matches
+Squad Total,,,27.6,3,33,270.0,3.0,5.0,4.0,9.0,5.0,0.0,1.0,5.0,1.0,1.67,1.33,3.0,1.67,3.0,
+Opponent Total,,,28.1,3,33,270.0,3.0,2.0,0.0,2.0,2.0,0.0,0.0,12.0,2.0,0.67,0.0,0.67,0.67,0.67,

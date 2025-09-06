@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,MP,Playing Time - Min,Playing Time - Mn/MP,Playing Time - Min%,Playing Time - 90s,Starts - Starts,Starts - Mn/Start,Starts - Compl,Subs - Subs,Subs - Mn/Sub,Subs - unSub,Team Success - PPM,Team Success - onG,Team Success - onGA,Team Success - +/-,Team Success - +/-90,Team Success - On-Off,Matches
+Kenneth Paal,sr SUR,DF,28-074,4,360.0,90.0,100.0,4.0,4,90.0,4,0,,0,1.5,4.0,4.0,0.0,0.0,,Matches
+Nikola Storm,be BEL,"MF,FW",30-341,4,359.0,90.0,99.7,4.0,4,90.0,3,0,,0,1.5,4.0,4.0,0.0,0.0,0.0,Matches
+Tomáš Čvančara,cz CZE,FW,25-024,4,329.0,82.0,91.4,3.7,4,82.0,0,0,,0,1.5,4.0,3.0,1.0,0.27,3.18,Matches
+Sander van de Streek,nl NED,"MF,DF",32-166,4,308.0,77.0,85.6,3.4,4,77.0,2,0,,0,1.5,4.0,4.0,0.0,0.0,0.0,Matches
+Abdülkadir Ömür,tr TUR,MF,26-073,4,302.0,76.0,83.9,3.4,4,76.0,1,0,,0,1.5,4.0,3.0,1.0,0.3,1.85,Matches
+Georgi Dzhikiya,ru RUS,DF,31-289,4,307.0,77.0,85.3,3.4,3,85.0,2,1,53.0,0,1.5,3.0,2.0,1.0,0.29,1.99,Matches
+Güray Vural,tr TUR,"MF,FW",37-087,4,275.0,69.0,76.4,3.1,3,77.0,1,1,45.0,0,1.5,3.0,2.0,1.0,0.33,1.39,Matches
+Abdullah Yiğiter,,GK,25-216,3,270.0,90.0,75.0,3.0,3,90.0,3,0,,1,2.0,3.0,2.0,1.0,0.33,1.33,Matches
+Veysel Sarı,tr TUR,DF,37-043,3,239.0,80.0,66.4,2.7,3,80.0,2,0,,0,2.0,3.0,2.0,1.0,0.38,1.12,Matches
+Soner Dikmen,tr TUR,MF,32-005,3,218.0,73.0,60.6,2.4,3,73.0,1,0,,1,2.0,3.0,2.0,1.0,0.41,1.05,Matches
+Jesper Ceesay,gm GAM,MF,23-321,3,216.0,72.0,60.0,2.4,2,90.0,2,1,36.0,0,1.0,2.0,3.0,-1.0,-0.42,-1.04,Matches
+Jakub Kałuziński,pl POL,MF,22-310,4,216.0,54.0,60.0,2.4,2,72.0,1,2,36.0,0,1.5,2.0,2.0,0.0,0.0,0.0,Matches
+Bünyamin Balcı,tr TUR,DF,25-098,4,206.0,52.0,57.2,2.3,2,72.0,0,2,31.0,0,1.5,2.0,2.0,0.0,0.0,0.0,Matches
+Lautaro Gianetti,ar ARG,DF,31-297,3,124.0,41.0,34.4,1.4,1,90.0,1,2,17.0,0,1.0,1.0,2.0,-1.0,-0.73,-1.11,Matches
+Julián Cuesta,es ESP,GK,34-162,1,90.0,90.0,25.0,1.0,1,90.0,1,0,,0,0.0,1.0,2.0,-1.0,-1.0,-1.33,Matches
+Bahadır Öztürk,tr TUR,DF,29-340,1,37.0,37.0,10.3,0.4,1,37.0,0,0,,0,3.0,1.0,1.0,0.0,0.0,0.0,Matches
+Engin Yıldırım,tr TUR,FW,20-234,4,32.0,8.0,8.9,0.4,0,,0,4,8.0,0,1.5,0.0,1.0,-1.0,-2.81,-3.09,Matches
+Dario Šarić,ba BIH,MF,28-099,1,27.0,27.0,7.5,0.3,0,,0,1,27.0,0,0.0,0.0,1.0,-1.0,-3.33,-3.6,Matches
+Mert Yilmaz,tr TUR,"DF,MF",26-182,3,21.0,7.0,5.8,0.2,0,,0,3,7.0,1,1.0,0.0,1.0,-1.0,-4.29,-4.55,Matches
+Hüseyin Türkmen,tr TUR,DF,27-248,1,16.0,16.0,4.4,0.2,0,,0,1,16.0,0,0.0,0.0,1.0,-1.0,-5.63,-5.89,Matches
+Hasan İlçin,,MF,16-166,1,7.0,7.0,1.9,0.1,0,,0,1,7.0,3,3.0,0.0,0.0,0.0,0.0,0.0,Matches
+Ali Demirbilek,,FW,16-244,1,1.0,1.0,0.3,0.0,0,,0,1,1.0,3,3.0,0.0,0.0,0.0,0.0,0.0,Matches
+Kagan Arican,tr TUR,GK,19-180,0,,,,,0,,0,0,,3,,,,,,,Matches
+Ege Izmirli,tr TUR,DF,17-226,0,,,,,0,,0,0,,4,,,,,,,Matches
+Kerem Kayaarası,tr TUR,FW,19-172,0,,,,,0,,0,0,,1,,,,,,,Matches
+Berkay Topdemir,,FW,18-248,0,,,,,0,,0,0,,3,,,,,,,Matches
+Squad Total,,,29.3,4,360.0,90.0,100.0,4.0,44,81.0,24,20,20.0,20,1.5,4.0,4.0,0.0,0.0,,
+Opponent Total,,,27.9,4,360.0,90.0,100.0,4.0,44,81.0,27,17,13.0,20,1.5,4.0,4.0,0.0,0.0,,

@@ -1,0 +1,25 @@
+Player,Nation,Pos,Age,MP,Playing Time - Starts,Playing Time - Min,Playing Time - 90s,Performance - Gls,Performance - Ast,Performance - G+A,Performance - G-PK,Performance - PK,Performance - PKatt,Performance - CrdY,Performance - CrdR,Per 90 Minutes - Gls,Per 90 Minutes - Ast,Per 90 Minutes - G+A,Per 90 Minutes - G-PK,Per 90 Minutes - G+A-PK,Matches
+Jure Balkovec,si SVN,DF,30-362,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Atakan Çankaya,tr TUR,DF,27-073,3,3,270.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.33,0.33,0.0,0.33,Matches
+Ivo Grbić,hr CRO,GK,29-231,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Daniel Johnson,jm JAM,MF,32-333,3,3,270.0,3.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.33,0.33,0.67,0.33,0.67,Matches
+Tiago Çukur,tr TUR,FW,22-280,3,3,261.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Barış Kalayci,de GER,MF,20-007,3,2,188.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Andre Gray,jm JAM,FW,34-072,3,2,183.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Fatih Kuruçuk,tr TUR,DF,27-228,3,2,181.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Sergio Antonio De Luiz Junior,br BRA,"MF,FW",30-153,3,2,161.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Çağtay Kurukalıp,tr TUR,DF,23-194,3,2,155.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Ahmet Sivri,,"MF,FW",26-062,2,2,136.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Tarık Kalpaklı,,MF,16-153,3,1,114.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Berkay Özcan,tr TUR,MF,27-203,2,1,101.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Muhammed Kadıoğlu,,DF,18-248,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Anıl Çınar,,DF,22-058,1,1,89.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.01,0.0,1.01,1.01,1.01,Matches
+Alper Demirol,se SWE,MF,22-340,2,1,67.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Marius Doh,ci CIV,MF,21-263,1,1,22.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches
+Ömer Gümüş,,MF,22-061,2,0,73.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Nikoloz Ugrekhelidze,ge GEO,MF,22-022,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Tuğbey Akgün,tr TUR,MF,22-150,0,0,,,,,,,,,,,,,,,,Matches
+Furkan Bekleviç,tr TUR,GK,26-218,0,0,,,,,,,,,,,,,,,,Matches
+Kerem Yandal,,GK,19-120,0,0,,,,,,,,,,,,,,,,Matches
+Squad Total,,,26.8,3,33,270.0,3.0,2.0,2.0,4.0,2.0,0.0,0.0,5.0,1.0,0.67,0.67,1.33,0.67,1.33,
+Opponent Total,,,27.8,3,33,270.0,3.0,5.0,4.0,9.0,5.0,0.0,0.0,2.0,0.0,1.67,1.33,3.0,1.67,3.0,

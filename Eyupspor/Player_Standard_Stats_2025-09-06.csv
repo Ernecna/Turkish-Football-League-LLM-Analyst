@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,MP,Playing Time - Starts,Playing Time - Min,Playing Time - 90s,Performance - Gls,Performance - Ast,Performance - G+A,Performance - G-PK,Performance - PK,Performance - PKatt,Performance - CrdY,Performance - CrdR,Per 90 Minutes - Gls,Per 90 Minutes - Ast,Per 90 Minutes - G+A,Per 90 Minutes - G-PK,Per 90 Minutes - G+A-PK,Matches
+Luccas Claro,br BRA,DF,33-339,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Nihad Mujakić,ba BIH,DF,27-144,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Robin Yalçın,de GER,DF,31-224,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Kerem Demirbay,de GER,MF,32-065,4,4,355.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Denis Drăguș,ro ROU,MF,26-062,4,4,296.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Serdar Gürler,tr TUR,MF,33-357,4,4,269.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Mame Baba Thiam,sn SEN,FW,32-332,3,3,270.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.33,0.0,0.33,0.33,0.33,Matches
+Marcos Felipe,br BRA,GK,29-146,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Yalçın Kayan,tr TUR,MF,26-219,4,3,255.0,2.8,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.71,0.71,0.0,0.71,Matches
+Lucas Calegari,br BRA,MF,23-191,3,3,233.0,2.6,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.39,0.39,0.0,0.39,Matches
+Svit Sešlar,si SVN,MF,23-240,3,2,197.0,2.2,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.46,0.0,0.46,0.46,0.46,Matches
+Umut Bozok,tr TUR,FW,28-352,4,1,151.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Halil Akbunar,tr TUR,MF,31-301,3,1,129.0,1.4,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.7,0.0,0.7,0.7,0.7,Matches
+Melih Kabasakal,,MF,29-200,3,1,105.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Berke Özer,tr TUR,GK,25-104,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Emre Akbaba,tr TUR,MF,32-337,3,1,79.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Talha Ulvan,be BEL,DF,24-139,2,1,66.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Prince Obeng Ampem,gh GHA,MF,27-146,4,0,106.0,1.2,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.85,0.0,0.85,0.85,0.85,Matches
+Ilter Tashkin,az AZE,MF,31-063,2,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Metehan Altunbaş,tr TUR,FW,22-242,1,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Mete-Kaan Demir,tr TUR,FW,27-116,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Hamza Akman,tr TUR,MF,20-344,0,0,,,,,,,,,,,,,,,,Matches
+Cengiz Köseer,tr TUR,GK,22-248,0,0,,,,,,,,,,,,,,,,Matches
+Umut Meraş,tr TUR,"DF,MF",29-260,0,0,,,,,,,,,,,,,,,,Matches
+Emir Ortakaya,tr TUR,DF,21-076,0,0,,,,,,,,,,,,,,,,Matches
+Taras Stepanenko,ua UKR,MF,36-029,0,0,,,,,,,,,,,,,,,,Matches
+Halil Yeral,tr TUR,GK,25-248,0,0,,,,,,,,,,,,,,,,Matches
+Squad Total,,,29.5,4,44,360.0,4.0,4.0,3.0,7.0,4.0,0.0,0.0,12.0,0.0,1.0,0.75,1.75,1.0,1.75,
+Opponent Total,,,28.7,4,44,360.0,4.0,7.0,4.0,11.0,4.0,3.0,3.0,10.0,0.0,1.75,1.0,2.75,1.0,2.0,
